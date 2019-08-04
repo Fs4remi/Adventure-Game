@@ -1,1 +1,0 @@
-C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/cs201_p4.dir/main.cpp.o CMakeFiles/cs201_p4.dir/Adventure.cpp.o CMakeFiles/cs201_p4.dir/AdvRoom.cpp.o CMakeFiles/cs201_p4.dir/AdvObject.cpp.o CMakeFiles/cs201_p4.dir/AdvMotionTableEntry.cpp.o  -o cs201_p4.exe -Wl,--out-implib,libcs201_p4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

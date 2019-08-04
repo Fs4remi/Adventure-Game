@@ -1,3 +1,0 @@
-/cygdrive/c/Users/fs4re/CLionProjects/cs201-p4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/fs4re/CLionProjects/cs201-p4/cmake-build-debug/CMakeFiles/cs201_p4.dir
-/cygdrive/c/Users/fs4re/CLionProjects/cs201-p4/cmake-build-debug/CMakeFiles/edit_cache.dir
